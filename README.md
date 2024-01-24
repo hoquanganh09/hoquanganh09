@@ -36,8 +36,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40"/>
 </p>
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoquanganh09&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoquanganh09&show_icons=true&locale=en&theme=tokyonight"/></p>
 
+</div>
