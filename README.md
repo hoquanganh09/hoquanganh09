@@ -37,8 +37,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedh-shadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoquanganh09&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedh-shadir&theme=tokyonight" alt="muhammedh-shadir" /></p>
