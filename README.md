@@ -16,7 +16,7 @@
 <div>
   <h1 align="center">Hi 👋, I'm Anh Bii</h1>
 <h3 align="center">I am a final year Software Engineering student at Hanoi University of Industry, deeply immersed in researching information security and vulnerabilities. With a future focus on becoming a white hat hacker and penetration tester, I am eager to connect with like-minded individuals, contribute to open-source projects, and enhance my skills in the dynamic field of cybersecurity.</h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning Python, PHP
 
@@ -39,9 +39,3 @@
 </p>
 </div>
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoquanganh09&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoquanganh09&show_icons=true&locale=en&theme=tokyonight"/></p>
-
-</div>
