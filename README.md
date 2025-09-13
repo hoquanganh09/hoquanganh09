@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/2IS5.mp4" width="300"/>
+  <img src="https://i.gifer.com/2IS5.gif" width="300"/>
   <div id="badges">
     <a href="https://www.facebook.com/quanganh.ho.0909/">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
