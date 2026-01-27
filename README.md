@@ -7,9 +7,6 @@
     <a href="https://www.instagram.com/quanganh_0909">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://twitter.com/quanganhho99">
-      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=hoquanganh09&style=flat-square&color=blue" alt="Profile views"/>
 </div>
