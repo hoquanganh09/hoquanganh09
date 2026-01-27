@@ -30,16 +30,13 @@
 
 ## 🧰 Languages & Tools
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40" alt="C#"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40" height="40" alt="C++"/>
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="40" height="40" alt="Dart"/>
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" alt="CSS"/>
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite"/>
+  <img src="https://cdn.simpleicons.org/acunetix" width="40" height="40" alt="Acunetix"/>
 </p>
 
 ## 🤝 Let's Connect
