@@ -36,7 +36,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/php-6.svg" width="40" height="40" alt="PHP"/>
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Acunetix_logo.png" width="40" height="40" alt="Acunetix"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Acunetix_logo.png" width="40" height="40" alt="Acunetix" background="white"/>
 </p>
 
 ## 🤝 Let's Connect
