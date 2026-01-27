@@ -40,6 +40,6 @@
 </p>
 
 ## 🤝 Let's Connect
-- Facebook: [Anh Bii](https://www.facebook.com/quanganh.ho.0909/)
+- Facebook: [Hồ Quang Anh](https://www.facebook.com/quanganh.ho.0909/)
 - Instagram: [@quanganh_0909](https://www.instagram.com/quanganh_0909)
-- X (Twitter): [@quanganhho99](https://twitter.com/quanganhho99)
+- Hashnode: [AnhBii](https://anhbii.hashnode.dev/)
