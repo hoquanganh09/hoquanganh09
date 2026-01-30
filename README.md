@@ -20,7 +20,7 @@
 <img align="right" alt="Coding animation" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Python** and **PHP**
+- 🌱 Currently learning **SOC**
 - 🎯 Interested in **information security**, **vulnerability research**, and **penetration testing**
 - 📫 Reach me at **quanganhho99@gmail.com**
 - ⚡ Fun fact: **Reading books** and **playing chess**
